@@ -12,8 +12,8 @@ Activity yo understand how to use PMD as a code quality metric tool to detect an
 ### [Code Inspection](CodeInspection)
 Code edited during the workshop. Includes the last HTML report generated and the rules.xml that contains the rulesets and properties added.
 
-### [Report before](Report before)
+### Report before
 HTML Files generated for the rules report, before the changes to the code. There were 35 violations, 26 violations in Email.java and 9 violations in EmailApp.java.
 
-### [Report after](Report after)
+### Report after
 HTML Files generated for the rules report, after the changes to the code. There were 0 violations.
